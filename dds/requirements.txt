@@ -1,6 +1,6 @@
 numpy
 opencv-python-headless
-tensorflow.keras=2.2.4
+tensorflow.keras==2.2.4
 tensorflow
 pygame
 os
