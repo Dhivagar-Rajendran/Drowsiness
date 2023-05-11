@@ -10,3 +10,4 @@ os
 shutil
 glob
 tqdm
+Streamlit
