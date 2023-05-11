@@ -1,0 +1,12 @@
+numpy
+opencv-python-headless
+tensorflow.keras.models
+tensorflow
+pygame
+tensorflow.keras.applications
+tensorflow.keras.layers
+tensorflow.keras.preprocessing.image
+os
+shutil
+glob
+tqdm
